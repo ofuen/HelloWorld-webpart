@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## helloworld-webpart
 
 This is where you include your WebPart documentation.
@@ -24,3 +25,7 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+=======
+# HelloWorld-webpart
+HelloWorld SharePoint web part
+>>>>>>> 1568f20e27802485e77138e18020f56fbdb0e670
