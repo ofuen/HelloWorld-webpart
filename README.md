@@ -27,3 +27,5 @@ gulp package-solution - TODO
 
 # HelloWorld-webpart
 HelloWorld SharePoint web part
+***
+![image](https://user-images.githubusercontent.com/19554935/51755178-ff765980-208b-11e9-969e-85ea4c3c1db3.png)
