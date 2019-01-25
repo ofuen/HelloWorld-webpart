@@ -24,6 +24,6 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
-=======
+
 # HelloWorld-webpart
 HelloWorld SharePoint web part
