@@ -36,4 +36,7 @@ gulp serve
 ```
 ***
 ![image](https://user-images.githubusercontent.com/19554935/51755984-e9699880-208d-11e9-932b-9661f7713eb9.png)
+***
+localhost vs Production
+![image](https://user-images.githubusercontent.com/19554935/51805004-ef9a7900-2235-11e9-98ae-310c6aeb2773.png)
 
