@@ -40,3 +40,5 @@ gulp serve
 localhost vs Production
 ![image](https://user-images.githubusercontent.com/19554935/51805022-2d979d00-2236-11e9-866c-bf1ec819a2f3.png)
 
+### Use the App Catalog to deploy custom business apps available for your SharePoint Online
+![image](https://user-images.githubusercontent.com/19554935/52082221-38ba3800-256a-11e9-9ee8-946bc557455b.png)
