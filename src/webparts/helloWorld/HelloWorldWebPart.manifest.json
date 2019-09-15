@@ -18,7 +18,7 @@
     "group": { "default": "Other" },
     "title": { "default": "HelloWorld" },
     "description": { "default": "HelloWorld description" },
-    "officeFabricIconFontName": "Globe",
+    "officeFabricIconFontName": "SharepointLogo",
     "properties": {
       "description": "HelloWorld",
       "test": "Multi-line text field",
