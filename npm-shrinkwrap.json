@@ -62,13 +62,13 @@
       }
     },
     "@microsoft/api-extractor": {
-      "version": "7.4.5",
-      "resolved": "https://registry.npmjs.org/@microsoft/api-extractor/-/api-extractor-7.4.5.tgz",
-      "integrity": "sha512-KZ6zuzKscSI4gU9yfUSvb1oP2tqWjeIlVlP8lZIg8nI/NwbESKBlndInk8c6Tit+JV0LnQATTJJUj+zMTgD3cA==",
+      "version": "7.4.6",
+      "resolved": "https://registry.npmjs.org/@microsoft/api-extractor/-/api-extractor-7.4.6.tgz",
+      "integrity": "sha512-v/6v4tS/WzVGOhLyjgNsmJBnRN4gnW99FeCKTKgDeCZiRIdbemi+g/+ZZnS5YaNu6Yp6DfRR9558WV4RVS2vbA==",
       "requires": {
-        "@microsoft/api-extractor-model": "7.5.0",
-        "@microsoft/node-core-library": "3.15.0",
-        "@microsoft/ts-command-line": "4.3.1",
+        "@microsoft/api-extractor-model": "7.5.1",
+        "@microsoft/node-core-library": "3.15.1",
+        "@microsoft/ts-command-line": "4.3.2",
         "@microsoft/tsdoc": "0.12.14",
         "colors": "~1.2.1",
         "lodash": "~4.17.15",
@@ -103,11 +103,11 @@
       }
     },
     "@microsoft/api-extractor-model": {
-      "version": "7.5.0",
-      "resolved": "https://registry.npmjs.org/@microsoft/api-extractor-model/-/api-extractor-model-7.5.0.tgz",
-      "integrity": "sha512-L3fjAQLJIoBmv64ZXTjp96v2TnHHLICucEkrKnsi8mItCVY4vkw8B1irEk4zBsTcvO7bM+cS97UUzGqpqr5L1w==",
+      "version": "7.5.1",
+      "resolved": "https://registry.npmjs.org/@microsoft/api-extractor-model/-/api-extractor-model-7.5.1.tgz",
+      "integrity": "sha512-qzgmJeoqpJqYDS1yj9YTPdd/+9OWGFwfzGFyr6kVarexomdPSltcoQYIS5JnrB/RFNeUgTNUlwn5mYdyp2Xv6A==",
       "requires": {
-        "@microsoft/node-core-library": "3.15.0",
+        "@microsoft/node-core-library": "3.15.1",
         "@microsoft/tsdoc": "0.12.14"
       }
     },
@@ -1192,9 +1192,9 @@
       }
     },
     "@microsoft/node-core-library": {
-      "version": "3.15.0",
-      "resolved": "https://registry.npmjs.org/@microsoft/node-core-library/-/node-core-library-3.15.0.tgz",
-      "integrity": "sha512-MoK3STynla/oH7m0llHkRR9mUCIsZ5t/ENKYLS5upkii91/MHZeZJZsjuRlO8biaNy6W9XpBp23f3fEk72yFiw==",
+      "version": "3.15.1",
+      "resolved": "https://registry.npmjs.org/@microsoft/node-core-library/-/node-core-library-3.15.1.tgz",
+      "integrity": "sha512-fUrcgu+w40k2GW8fiOUFby7jaKAAuDKaTrQuFQ3j+0Pg3ANnJ2uKtVf3bgFiNu+uVKpwVtLo4CPS8TwFduJRow==",
       "requires": {
         "@types/node": "8.10.54",
         "colors": "~1.2.1",
@@ -1360,12 +1360,12 @@
       }
     },
     "@microsoft/rush-stack-compiler-3.2": {
-      "version": "0.4.2",
-      "resolved": "https://registry.npmjs.org/@microsoft/rush-stack-compiler-3.2/-/rush-stack-compiler-3.2-0.4.2.tgz",
-      "integrity": "sha512-cnJt0CjxdECZlZEtlA11sxMssAxOCZQPvPqOWKW8+avzJM84yjVuC+EcNw4I2GoStvzbxDw/ZL/pcf/tn2aJEg==",
+      "version": "0.4.3",
+      "resolved": "https://registry.npmjs.org/@microsoft/rush-stack-compiler-3.2/-/rush-stack-compiler-3.2-0.4.3.tgz",
+      "integrity": "sha512-J4Y2HRPLzs+FLlRsLHeFsaQvEuaaoYGQeOhgNaciybhyb9Gjc1zRynx22yB0J0AylJD+C+olj3g8IRMJnkHv+A==",
       "requires": {
-        "@microsoft/api-extractor": "7.4.5",
-        "@microsoft/node-core-library": "3.15.0",
+        "@microsoft/api-extractor": "7.4.6",
+        "@microsoft/node-core-library": "3.15.1",
         "@types/node": "8.10.54",
         "tslint": "~5.12.1",
         "tslint-microsoft-contrib": "~5.2.1",
@@ -2457,9 +2457,9 @@
       "integrity": "sha512-O10tpakpm+NyClJOW4eCaidlDI5sW9b5oRGQiUA0WqFG6GQt1HEz/KFsCN+ebaFgjstx+trZzYIuYdpK98XsMQ=="
     },
     "@microsoft/ts-command-line": {
-      "version": "4.3.1",
-      "resolved": "https://registry.npmjs.org/@microsoft/ts-command-line/-/ts-command-line-4.3.1.tgz",
-      "integrity": "sha512-xkr13d0Ef55U/r1BKmiIVGE0StFE2tOv9430VUxIb3mpWEIfKMaTrXQhCftty7uClbHV/syllUQkerCCv/bj2A==",
+      "version": "4.3.2",
+      "resolved": "https://registry.npmjs.org/@microsoft/ts-command-line/-/ts-command-line-4.3.2.tgz",
+      "integrity": "sha512-2QeyilabCe6IpBylPXuY6dCA1S9ym3Ii0zakXVPpyfjSj1NesnyuUeuh6e8kyIqzqJ+3LYjfPG63XzUBtwGqqw==",
       "requires": {
         "@types/argparse": "1.0.33",
         "argparse": "~1.0.9",
