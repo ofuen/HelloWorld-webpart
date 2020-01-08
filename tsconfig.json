@@ -8,6 +8,7 @@
     "declaration": true,
     "sourceMap": true,
     "experimentalDecorators": true,
+    "extends": "./node_modules/@microsoft/rush-stack-compiler-3.3/includes/tsconfig-web.json",
     "skipLibCheck": true,
     "outDir": "lib",
     "typeRoots": [
